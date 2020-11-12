@@ -26,7 +26,5 @@
 		<?php $this->load->view('inc/_foot'); ?>
 		<?php $this->load->view('inc/footer'); ?>
 	</div> <!-- end of #wrapper -->
-
-	<script src="<?= base_url('js/common.js') ?>?var=<?= CACHES_CLEAR_VERSION ?>"></script>
 </body>
 </html>
