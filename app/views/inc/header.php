@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="header row">
 		<div class="col-md-6">
-			<h1>教材インフォメーション</h1>
+			<img src="<?= base_url('img/common/kyouzaiinfo_logo.png') ?>" class="logo" alt="ロゴ">
 		</div>
 		<div class="col-md-6">
 			<a href="https://www.shop-chuoh.com" class="float-right" target="_blank">
