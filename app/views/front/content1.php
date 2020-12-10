@@ -4,9 +4,20 @@
 		<iframe src="https://player.vimeo.com/video/474586076?byline=false&portrait=false&title=false" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 	</div>
 	<div class="col-md-6">
-		紹介しているテキストの名前<br>
-		メーカーごとに説明が始まるおおよその時間<br>
-		などなど・・・
+		<dl class="time-table">
+			<dt>・定期テスト対策 ワーク</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学必修テキスト</dt>
+			<dd>XX:XX～</dd>
+			<dt>・新ワーク</dt>
+			<dd>XX:XX～</dd>
+			<dt>・NEW BASIC</dt>
+			<dd>XX:XX～</dd>
+			<dt>・SPIRAL</dt>
+			<dd>XX:XX～</dd>
+			<dt>・教科書マスター</dt>
+			<dd>XX:XX～</dd>
+		</dl>
 	</div>
 </div> <!-- end of .row -->
 <div class="text-center mt-4 mt-md-0">
@@ -21,9 +32,20 @@
 		<iframe src="https://player.vimeo.com/video/474586076?byline=false&portrait=false&title=false" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 	</div>
 	<div class="col-md-6">
-		紹介しているテキストの名前<br>
-		メーカーごとに説明が始まるおおよその時間<br>
-		などなど・・・
+		<dl class="time-table">
+			<dt>・定期テスト対策 ワーク</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学必修テキスト</dt>
+			<dd>XX:XX～</dd>
+			<dt>・新ワーク</dt>
+			<dd>XX:XX～</dd>
+			<dt>・NEW BASIC</dt>
+			<dd>XX:XX～</dd>
+			<dt>・SPIRAL</dt>
+			<dd>XX:XX～</dd>
+			<dt>・教科書マスター</dt>
+			<dd>XX:XX～</dd>
+		</dl>
 	</div>
 </div> <!-- end of .row -->
 <div class="text-center mt-4 mt-md-0">
@@ -38,9 +60,18 @@
 		<iframe src="https://player.vimeo.com/video/474586076?byline=false&portrait=false&title=false" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 	</div>
 	<div class="col-md-6">
-		紹介しているテキストの名前<br>
-		メーカーごとに説明が始まるおおよその時間<br>
-		などなど・・・
+		<dl class="time-table">
+			<dt>・定期テスト対策 ワーク</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学必修テキスト</dt>
+			<dd>XX:XX～</dd>
+			<dt>・新ワーク</dt>
+			<dd>XX:XX～</dd>
+			<dt>・NEW BASIC</dt>
+			<dd>XX:XX～</dd>
+			<dt>・教科書マスター</dt>
+			<dd>XX:XX～</dd>
+		</dl>
 	</div>
 </div> <!-- end of .row -->
 <div class="text-center mt-4 mt-md-0">
@@ -55,9 +86,18 @@
 		<iframe src="https://player.vimeo.com/video/474586076?byline=false&portrait=false&title=false" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 	</div>
 	<div class="col-md-6">
-		紹介しているテキストの名前<br>
-		メーカーごとに説明が始まるおおよその時間<br>
-		などなど・・・
+		<dl class="time-table">
+			<dt>・定期テスト対策 ワーク</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学必修テキスト</dt>
+			<dd>XX:XX～</dd>
+			<dt>・新ワーク</dt>
+			<dd>XX:XX～</dd>
+			<dt>・NEW BASIC</dt>
+			<dd>XX:XX～</dd>
+			<dt>・教科書マスター</dt>
+			<dd>XX:XX～</dd>
+		</dl>
 	</div>
 </div> <!-- end of .row -->
 <div class="text-center mt-4 mt-md-0">
@@ -72,9 +112,18 @@
 		<iframe src="https://player.vimeo.com/video/474586076?byline=false&portrait=false&title=false" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 	</div>
 	<div class="col-md-6">
-		紹介しているテキストの名前<br>
-		メーカーごとに説明が始まるおおよその時間<br>
-		などなど・・・
+		<dl class="time-table">
+			<dt>・定期テスト対策 ワーク</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学必修テキスト</dt>
+			<dd>XX:XX～</dd>
+			<dt>・新ワーク</dt>
+			<dd>XX:XX～</dd>
+			<dt>・NEW BASIC</dt>
+			<dd>XX:XX～</dd>
+			<dt>・教科書マスター</dt>
+			<dd>XX:XX～</dd>
+		</dl>
 	</div>
 </div> <!-- end of .row -->
 <div class="text-center mt-4 mt-md-0">

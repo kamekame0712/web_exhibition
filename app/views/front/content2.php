@@ -4,9 +4,20 @@
 		<iframe src="https://player.vimeo.com/video/474586076?byline=false&portrait=false&title=false" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 	</div>
 	<div class="col-md-6">
-		紹介しているテキストの名前<br>
-		メーカーごとに説明が始まるおおよその時間<br>
-		などなど・・・
+		<dl class="time-table">
+			<dt>・標準新演習</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学WinPass</dt>
+			<dd>XX:XX～</dd>
+			<dt>・Winning</dt>
+			<dd>XX:XX～</dd>
+			<dt>・ONLY ONE</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学アクテイブ</dt>
+			<dd>XX:XX～</dd>
+			<dt>・マイスタディテキスト</dt>
+			<dd>XX:XX～</dd>
+		</dl>
 	</div>
 </div> <!-- end of .row -->
 <div class="text-center mt-4 mt-md-0">
@@ -21,9 +32,20 @@
 		<iframe src="https://player.vimeo.com/video/474586076?byline=false&portrait=false&title=false" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 	</div>
 	<div class="col-md-6">
-		紹介しているテキストの名前<br>
-		メーカーごとに説明が始まるおおよその時間<br>
-		などなど・・・
+		<dl class="time-table">
+			<dt>・標準新演習</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学WinPass</dt>
+			<dd>XX:XX～</dd>
+			<dt>・Winning</dt>
+			<dd>XX:XX～</dd>
+			<dt>・ONLY ONE</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学アクテイブ</dt>
+			<dd>XX:XX～</dd>
+			<dt>・マイスタディテキスト</dt>
+			<dd>XX:XX～</dd>
+		</dl>
 	</div>
 </div> <!-- end of .row -->
 <div class="text-center mt-4 mt-md-0">
@@ -38,9 +60,16 @@
 		<iframe src="https://player.vimeo.com/video/474586076?byline=false&portrait=false&title=false" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 	</div>
 	<div class="col-md-6">
-		紹介しているテキストの名前<br>
-		メーカーごとに説明が始まるおおよその時間<br>
-		などなど・・・
+		<dl class="time-table">
+			<dt>・標準新演習</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学WinPass</dt>
+			<dd>XX:XX～</dd>
+			<dt>・Winning</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学アクテイブ</dt>
+			<dd>XX:XX～</dd>
+		</dl>
 	</div>
 </div> <!-- end of .row -->
 <div class="text-center mt-4 mt-md-0">
@@ -55,9 +84,20 @@
 		<iframe src="https://player.vimeo.com/video/474586076?byline=false&portrait=false&title=false" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 	</div>
 	<div class="col-md-6">
-		紹介しているテキストの名前<br>
-		メーカーごとに説明が始まるおおよその時間<br>
-		などなど・・・
+		<dl class="time-table">
+			<dt>・標準新演習</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学WinPass</dt>
+			<dd>XX:XX～</dd>
+			<dt>・Winning</dt>
+			<dd>XX:XX～</dd>
+			<dt>・ONLY ONE</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学アクテイブ</dt>
+			<dd>XX:XX～</dd>
+			<dt>・マイスタディワーク</dt>
+			<dd>XX:XX～</dd>
+		</dl>
 	</div>
 </div> <!-- end of .row -->
 <div class="text-center mt-4 mt-md-0">
@@ -72,9 +112,16 @@
 		<iframe src="https://player.vimeo.com/video/474586076?byline=false&portrait=false&title=false" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 	</div>
 	<div class="col-md-6">
-		紹介しているテキストの名前<br>
-		メーカーごとに説明が始まるおおよその時間<br>
-		などなど・・・
+		<dl class="time-table">
+			<dt>・標準新演習</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学WinPass</dt>
+			<dd>XX:XX～</dd>
+			<dt>・Winning</dt>
+			<dd>XX:XX～</dd>
+			<dt>・中学アクテイブ</dt>
+			<dd>XX:XX～</dd>
+		</dl>
 	</div>
 </div> <!-- end of .row -->
 <div class="text-center mt-4 mt-md-0">
