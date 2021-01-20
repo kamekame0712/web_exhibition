@@ -9,7 +9,7 @@ class Index extends MY_Controller
 
 	public function index()
 	{
-//		$this->load->view('front/index');
-		$this->load->view('front/wait');
+		$this->load->view('front/index');
+//		$this->load->view('front/wait');
 	}
 }
